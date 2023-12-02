@@ -41,13 +41,13 @@ nav {
 #categories {
   display: flex;
   flex-wrap: wrap;
-  width: 95vw;
+  width: 100vw;
   margin-top: 1px;
   white-space: nowrap;
 }
 #cards {
   display: flex;
-  width: 92vw;
+  width: 100vw;;
   gap: 10px;
   justify-content: space-between;
  overflow-y: scroll;

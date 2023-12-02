@@ -51,7 +51,6 @@ nav {
   gap: 10px;
   justify-content: space-between;
  overflow-y: scroll;
-  margin-left: 45px;
   overflow-x: scroll;
   
 }

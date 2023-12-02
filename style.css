@@ -66,9 +66,9 @@ nav {
   color: green;
 }
 .cards {
-  width: 145px;
+  width: 180px;
   height: 230+px;
-  
+
   display: inline-block !important;
   margin-top: 20px;
 }
